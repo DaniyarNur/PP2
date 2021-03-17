@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "strings"
+		},
+		{
+			"path": "while"
+		},
+		{
+			"path": "integerarifm"
+		},
+		{
+			"path": "funcrec"
+		},
+		{
+			"path": "../tsis2"
+		},
+		{
+			"path": "../tsis3"
+		}
+	],
+	"settings": {}
+}

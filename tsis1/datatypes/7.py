@@ -1,0 +1,1 @@
+print('APython'*100)
